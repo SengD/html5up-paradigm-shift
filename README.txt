@@ -29,3 +29,7 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+https://sengd.github.io/html5up-paradigm-shift/
